@@ -2,9 +2,9 @@
 
 ### I'm a Data Analyst, Data Scientist, Teaching Assistant, Professional Guest Service Agent, Runner and Yogist!
 
-### Introspection is my hobby :relieved:
+I'm a hardworking individual who is keen on gaining new experiences as I hold a variety of adaptable and transferable skills. Having had experience in the field of hospitality, education, and manufacture. Strong problem solving skills paired with curious mind and positive mindset!
 
-### I'm a hardworking individual who is keen on gaining new experiences as I hold a variety of adaptable and transferable skills. Having had experience in the field of hospitality, education, and manufacture. Strong problem solving skills paired with curious mind and positive mindset!
+Introspection is my hobby :relieved:
 
 Here are some ideas to get you started:
 
