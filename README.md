@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any interesting Data Science project.
 - 🤔 I’m looking for help with Power BI.
 - 💬 Ask me about: data science topics and healthy lifestyle.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andyphamto/) or [Gmail](https://www.aqpham02@gmail.com)
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andyphamto/) or [Gmail](https://www.aqpham02@gmail.com).
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm trasitioning to be a Vegan and I feel better than ever! Ask me for my easy vegan recipe :herb:!
 
 ### Some contents I created:
