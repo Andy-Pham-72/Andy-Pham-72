@@ -1,13 +1,15 @@
 ### Hi there! I'm Andy 👋
 
-### I'm a Data Analyst, Data Scientist, Professional Guest Service Agent, Runner and Yogist!
+### I'm a Data Analyst, Data Scientist, Teaching Assistant, Professional Guest Service Agent, Runner and Yogist!
 
-### "Introspection is my hobby :relieved:"
+### Introspection is my hobby :relieved:
+
+### I'm a hardworking individual who is keen on gaining new experiences as I hold a variety of adaptable and transferable skills. Having had experience in the field of hospitality, education, and manufacture. Strong problem solving skills paired with curious mind and positive mindset!
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my porfolio and creating more personal data analyses.
-- 🌱 I’m currently learning to master my stastistic knowlegde.
+- 🌱 I’m currently learning to master my statistical knowlegde.
 - 👯 I’m looking to collaborate on any interesting Data Science project.
 - 🤔 I’m looking for help with Power BI.
 - 💬 Ask me about: data science topics and healthy lifestyle.
