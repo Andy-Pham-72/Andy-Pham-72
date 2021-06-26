@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm trasitioning to be a Vegan and I feel better than ever! Ask me for my easy vegan recipe :herb:!
 
-### Some contents I have created:
+### Some contents I created:
 
 * [GoodVitamins](https://github.com/Andy-Pham-72/GoodVitamins)
 * [Statistical Analysis](https://github.com/Andy-Pham-72/Statistical-Analysis)
