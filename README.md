@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning to master my statistical knowlegde.
 - 👯 I’m looking to collaborate on any interesting Data Science project.
 - 🤔 I’m looking for help with Power BI.
+- :books: I'm currently reading Social Intelligent by Daniel Goleman.
 - 💬 Ask me about: data science topics and healthy lifestyle.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andyphamto/) or [Gmail](https://www.aqpham02@gmail.com).
 - 😄 Pronouns: He/Him.
