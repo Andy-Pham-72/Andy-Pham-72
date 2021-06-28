@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about: data science topics and healthy lifestyle.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andyphamto/) or [Gmail](https://www.aqpham02@gmail.com).
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I'm trasitioning to be a Vegan and I feel better than ever! Ask me for my easy vegan recipe :herb:!
+- ⚡ Fun fact: I'm trasitioning to be a Vegan and I feel better than ever! Ask me for my easy vegan recipe :herb:! In the meantime if you want to get some motivations please watch this [Youtube video](https://www.youtube.com/watch?v=iuOa3avtdNA)
 
 ### Some contents I created:
 
