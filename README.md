@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 * [Creating interactive KPI Dashboard with Tableau](https://github.com/Andy-Pham-72/Creating-a-KPI-Dashboard-with-Tableau)
 * [How to deploy web app with Streamlit and Heroku](https://github.com/Andy-Pham-72/How-To-Deploy-WebApp-with-Streamlit-Heroku)
 * [Webscraping with BeautifulSoup and Pandas](https://github.com/Andy-Pham-72/Web-Scraping-with-BeautifulSoup-and-Pandas)
+* [Webscraping with Selenium](https://github.com/Andy-Pham-72/Web-Scraping-with-Selenium)
 * [SQL Challenges](https://github.com/Andy-Pham-72/SQL-Challenge-Questions)
 * [Python Challenges](https://github.com/Andy-Pham-72/Python-Challenge-Questions)
