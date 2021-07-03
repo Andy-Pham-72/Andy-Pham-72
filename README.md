@@ -1,4 +1,4 @@
-[Alt Text](https://media.giphy.com/media/IrFmRKKWtJ8Jk9IZzC/giphy.gif)
+[](![grounded in realness-2](https://user-images.githubusercontent.com/70767722/124357177-27b4fb80-dbe8-11eb-8757-01e1d4243cea.gif))
 
 ### Hi there! I'm Andy 👋
 ### I'm a Data Analyst, Data Scientist, Teaching Assistant, Professional Guest Service Agent, Runner and Yogist!
