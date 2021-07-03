@@ -1,4 +1,5 @@
-<p align="center"> ![grounded in realness-2](https://user-images.githubusercontent.com/70767722/124357221-5d59e480-dbe8-11eb-95f2-f865022dc1ee.gif)
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/70767722/124357221-5d59e480-dbe8-11eb-95f2-f865022dc1ee.gif" alt="animated" />
 </p>
 
 ### Hi there! I'm Andy 👋
