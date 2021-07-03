@@ -1,9 +1,7 @@
-
-
-https://user-images.githubusercontent.com/70767722/124357283-bd508b00-dbe8-11eb-99e7-6606ea473674.mp4
+<p align="center">
 
   ![grounded in realness-2](https://user-images.githubusercontent.com/70767722/124357221-5d59e480-dbe8-11eb-95f2-f865022dc1ee.gif)
-
+</p>
 
 ### Hi there! I'm Andy 👋
 ### I'm a Data Analyst, Data Scientist, Teaching Assistant, Professional Guest Service Agent, Runner and Yogist!
