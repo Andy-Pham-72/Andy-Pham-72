@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 * [How to deploy web app with Streamlit and Heroku](https://github.com/Andy-Pham-72/How-To-Deploy-WebApp-with-Streamlit-Heroku)
 * [Webscraping with BeautifulSoup and Pandas](https://github.com/Andy-Pham-72/Web-Scraping-with-BeautifulSoup-and-Pandas)
 * [Webscraping with Selenium](https://github.com/Andy-Pham-72/Web-Scraping-with-Selenium)
-* [SQL Challenges](https://github.com/Andy-Pham-72/SQL-Challenge-Questions)
-* [Python Challenges](https://github.com/Andy-Pham-72/Python-Challenge-Questions)
+* [SQL Challenges and Tips](https://github.com/Andy-Pham-72/SQL-Challenge-Questions)
+* [Python Challenges and Tips](https://github.com/Andy-Pham-72/Python-Challenge-Questions)
