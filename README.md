@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ### Some contents I created:
 
-* [GoodVitamins](https://github.com/Andy-Pham-72/GoodVitamins)
-* [Banking system application](https://github.com/Andy-Pham-72/banking-system)
+* [GoodVitamins web app](https://github.com/Andy-Pham-72/GoodVitamins)
+* [Banking system app](https://github.com/Andy-Pham-72/banking-system)
 * [Statistical Analysis](https://github.com/Andy-Pham-72/Statistical-Analysis)
 * [Creating interactive KPI Dashboard with Tableau](https://github.com/Andy-Pham-72/Creating-a-KPI-Dashboard-with-Tableau)
 * [How to deploy web app with Streamlit and Heroku](https://github.com/Andy-Pham-72/How-To-Deploy-WebApp-with-Streamlit-Heroku)
