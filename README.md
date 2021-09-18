@@ -3,7 +3,7 @@
 </p>
 
 ### Hi there! I'm Andy 👋
-### I'm a Data Analyst, Data Scientist, Teaching Assistant, Professional Guest Service Agent, and Runner!
+### I'm a Data Engineering student, Data Analyst, Teaching Assistant, Professional Guest Service Agent, and Runner!
 
 I'm a hardworking individual who is keen on gaining new experiences as I hold a variety of adaptable and transferable skills. Having had experience in the field of hospitality, education, and manufacture. Strong problem solving skills paired with curious mind and positive mindset!
 
