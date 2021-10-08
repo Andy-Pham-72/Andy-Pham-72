@@ -11,7 +11,7 @@ Introspection is my hobby :relieved:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my porfolio and creating more personal data analyses.
+- 🔭 I’m currently working on my porfolio and creating more personal data engineering projects.
 - 🌱 I’m currently learning to master my statistics.
 - 👯 I’m looking to collaborate on any interesting Data Science project.
 - 🤔 I’m looking for help with Power BI.
