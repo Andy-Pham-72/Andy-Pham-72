@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 * [Webscraping with Selenium](https://github.com/Andy-Pham-72/Web-Scraping-with-Selenium)
 * [SQL Challenges and Tips](https://github.com/Andy-Pham-72/SQL-Challenge-Questions)
 * [Python Challenges and Tips](https://github.com/Andy-Pham-72/Python-Challenge-Questions)
+* [EURO CUP 2016 PostgreSQL Schema and Tables SETUP](https://github.com/Andy-Pham-72/EURO_CUP_2016_PostgreSQL)
