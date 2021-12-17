@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 * [Python Challenges and Tips](https://github.com/Andy-Pham-72/Python-Challenge-Questions)
 * [EURO CUP 2016 PostgreSQL Schema and Tables SETUP](https://github.com/Andy-Pham-72/EURO_CUP_2016_PostgreSQL)
 * [Data Pipeline Mini project](https://github.com/Andy-Pham-72/Data_Pipeline_Project)
+* [Airflow Mini Project 1](https://github.com/Andy-Pham-72/airflow-mini-project1)
