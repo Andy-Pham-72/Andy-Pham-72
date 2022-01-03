@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 * [Building A Streaming Fraud Detection System With Kafka and Python](https://github.com/Andy-Pham-72/kafka-mini-project-2)
 * [Data Pipeline Mini project](https://github.com/Andy-Pham-72/Data_Pipeline_Project)
 * [Airflow Mini Project 1](https://github.com/Andy-Pham-72/airflow-mini-project1)
+* [RESTful API with FLASK and Python mini project](https://github.com/Andy-Pham-72/RESTful-API-practice)
 * [Banking system app](https://github.com/Andy-Pham-72/banking-system)
 * [Statistical Analysis](https://github.com/Andy-Pham-72/Statistical-Analysis)
 * [Creating interactive KPI Dashboard with Tableau](https://github.com/Andy-Pham-72/Creating-a-KPI-Dashboard-with-Tableau)
