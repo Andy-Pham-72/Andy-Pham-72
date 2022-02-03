@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ### Some contents I created:
 
 * [GoodVitamins web app](https://github.com/Andy-Pham-72/GoodVitamins)
+* [Hadoop mini project](https://github.com/Andy-Pham-72/hadoop-mini-project)
 * [Building A Streaming Fraud Detection System With Kafka and Python](https://github.com/Andy-Pham-72/kafka-mini-project-2)
 * [Data Pipeline Mini project](https://github.com/Andy-Pham-72/Data_Pipeline_Project)
 * [Airflow Mini Project 1](https://github.com/Andy-Pham-72/airflow-mini-project1)
