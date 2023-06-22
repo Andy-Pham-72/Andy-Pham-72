@@ -3,7 +3,7 @@
 </p>
 
 ### Hi there! I'm Andy 👋
-### I'm a Data Engineering student, Data Analyst, Teaching Assistant, Professional Guest Service Agent, and Runner!
+### I'm a Data Engineer, Data Analyst, Teaching Assistant, Professional Guest Service Agent, and Runner!
 
 I'm a hardworking individual who is keen on gaining new experiences as I hold a variety of adaptable and transferable skills. Having had experience in the field of hospitality, education, and manufacture. Strong problem solving skills paired with curious mind and positive mindset!
 
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my porfolio and creating more personal data engineering projects. [my current data engineering project](https://github.com/Andy-Pham-72/Top-Rentals-Cineplex)
 - 🌱 I’m currently learning to master my statistics.
 - 👯 I’m looking to collaborate on any interesting Data Science project.
-- 🤔 I’m looking for help with Power BI.
 - :books: I highly recommend [Social Intelligence](https://www.youtube.com/watch?v=-hoo_dIOP8k) book by Daniel Goleman.
 - 💬 Ask me about: data science topics and healthy lifestyle.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andyphamto/) or [Gmail](https://www.aqpham02@gmail.com).
